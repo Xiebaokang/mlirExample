@@ -6,7 +6,7 @@
 1. **克隆项目**
 ```bash
 git clone https://github.com/Xiebaokang/mlirExample.git
-cd project
+cd mlirExample
 ```
 
 2. **安装依赖**
